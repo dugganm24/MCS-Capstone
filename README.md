@@ -1,2 +1,2 @@
 # MCS-Capstone
-Coming spring semester
+Complete README with implementation
